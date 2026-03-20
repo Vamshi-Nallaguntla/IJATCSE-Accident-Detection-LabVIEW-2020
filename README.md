@@ -1,12 +1,12 @@
 # IJATCSE-Accident-Detection-LabVIEW-2020
 
-# 🚗 Automatic Accident Avoidance and Detection System using LabVIEW
+# Automatic Accident Avoidance and Detection System using LabVIEW
 
 This repository contains the implementation and documentation of our IJATCSE 2020 paper.
 
 ---
 
-## 📌 Paper
+## Paper
 
 **Title:** Automatic Accident Avoidance and Detection System using LabVIEW  
 **Authors:** M. Srilatha, N. Vamshi, R. Aniruth, P. Narendar, Ch. Hareesh  
@@ -17,7 +17,7 @@ This repository contains the implementation and documentation of our IJATCSE 202
 
 ---
 
-## 💡 Overview
+## Overview
 
 This project proposes a system to:
 - Detect vehicle accidents using infrared sensors
@@ -29,7 +29,7 @@ The system improves response time and reduces fatalities by automatically notify
 
 ---
 
-## 🧠 System Components
+## System Components
 
 - Infrared Sensor → Accident detection  
 - Eye Blink Sensor → Drowsiness detection  
@@ -40,7 +40,7 @@ The system improves response time and reduces fatalities by automatically notify
 
 ---
 
-## 🔄 Workflow
+## Workflow
 
 1. Detect accident using IR sensor  
 2. Monitor driver alertness using eye blink sensor  
@@ -51,7 +51,7 @@ The system improves response time and reduces fatalities by automatically notify
 
 ---
 
-## 📊 Results
+## Results
 
 - Real-time accident detection  
 - Immediate SMS alert to emergency contacts  
@@ -59,7 +59,7 @@ The system improves response time and reduces fatalities by automatically notify
 
 ---
 
-## 📚 Citation
+## Citation
 
 If you find this work useful, please cite:
 
