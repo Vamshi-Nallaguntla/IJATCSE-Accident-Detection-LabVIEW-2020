@@ -13,7 +13,7 @@ This repository contains the implementation and documentation of our IJATCSE 202
 **Journal:** International Journal of Advanced Trends in Computer Science and Engineering (IJATCSE), 2020  
 **DOI:** https://doi.org/10.30534/ijatcse/2020/164942020  
 
-📄 [Read Paper](paper/ijatcse_paper.pdf)
+📄 [Read Paper](ijatcse164942020.pdf)
 
 ---
 
